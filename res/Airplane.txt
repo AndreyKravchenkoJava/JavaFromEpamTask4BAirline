@@ -1,0 +1,5 @@
+-=#Airlane#=-
+AirplaneCargoBuilder1,10
+AirplaneCargoBuilder2,20
+AirplanePassengerBuilder1,15
+AirplanePassengerBuilder2,25
